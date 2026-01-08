@@ -1,6 +1,8 @@
 # VL.IO.WebServer
 For serving websites from a local directory or content created upon request via a WebServer out of vvvv.
 
+For an introduction watch vvvvTv episode: 📺 [Serving a Web UI for mobile access](https://www.youtube.com/live/mhczdsRKmaE)
+
 For use with vvvv, the visual live-programming environment for .NET: http://vvvv.org
 
 ## Getting started
@@ -10,6 +12,7 @@ For use with vvvv, the visual live-programming environment for .NET: http://vvvv
 
 - Usage examples and more information are included in the pack and can be found via the [Help Browser](https://thegraybook.vvvv.org/reference/hde/findinghelp.html)
 - Info on [Accessing the WebServer from outside of localhost](https://github.com/dotnet/WatsonWebserver?tab=readme-ov-file#accessing-from-outside-localhost)
+
 
 ## Contributing
 - Report issues on [the vvvv forum](https://forum.vvvv.org/c/vvvv-gamma/28)
